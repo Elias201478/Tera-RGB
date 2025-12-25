@@ -27,10 +27,11 @@ this malware is very dangerous for non-safety version.
 
 This trojan can harm your computer and wipe the c: drive and MBR Use it only a Virtual Machine.
 
-Credits to: N17Pro3426 for Kindness.
+Credits to: N17Pro3426 and ChrisORM380/ChrisRM_380 and 1_cactos/Cactos for verifying my Malware and My Codes.
 
 PLEASE NOT THAT KozaResponding2 IS NOT RESPONSIBLE FOR ANY DAMAGES.
 
 my Channel: https://www.youtube.com/@PankozaTestingTrojans
 
 my GitHub: https://github.com/Elias201478
+
