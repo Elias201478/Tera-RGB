@@ -29,9 +29,10 @@ This trojan can harm your computer and wipe the c: drive and MBR Use it only a V
 
 Credits to: N17Pro3426 and ChrisORM380/ChrisRM_380 and 1_cactos/Cactos for verifying my Malware and My Codes.
 
-PLEASE NOT THAT KozaResponding2 IS NOT RESPONSIBLE FOR ANY DAMAGES.
+PLEASE NOTE THAT KozaResponding2 IS NOT RESPONSIBLE FOR ANY DAMAGES AND OR ANY DATA LOSS.
 
 my Channel: https://www.youtube.com/@PankozaTestingTrojans
 
 my GitHub: https://github.com/Elias201478
+
 
